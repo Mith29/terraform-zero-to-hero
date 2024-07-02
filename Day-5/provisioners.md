@@ -8,7 +8,7 @@ Certainly, let's delve deeper into the `file`, `remote-exec`, and `local-exec` p
 
    ```hcl
    resource "aws_instance" "example" {
-     ami           = "ami-0c55b159cbfafe1f0"
+     ami           = "ami-07d7e3e669718ab45"
      instance_type = "t2.micro"
    }
 
@@ -33,7 +33,7 @@ Certainly, let's delve deeper into the `file`, `remote-exec`, and `local-exec` p
 
    ```hcl
    resource "aws_instance" "example" {
-     ami           = "ami-0c55b159cbfafe1f0"
+     ami           = "ami-07d7e3e669718ab45"
      instance_type = "t2.micro"
    }
 
